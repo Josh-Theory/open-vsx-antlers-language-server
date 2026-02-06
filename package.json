@@ -1,6 +1,6 @@
 {
-    "name": "vscode-antlers",
-    "displayName": "Antlers Toolbox",
+    "name": "td-antlers",
+    "displayName": "TD Antlers Toolbox",
     "description": "Provides Antlers syntax highlighting, formatting, error reporting, project-specific suggestions, and more.",
     "author": "John Koster",
     "license": "MIT",
@@ -9,7 +9,7 @@
         "type": "git",
         "url": "https://github.com/Stillat/vscode-antlers-language-server"
     },
-    "publisher": "stillat-llc",
+    "publisher": "josh-theory",
     "icon": "toolbox-icon.png",
     "keywords": [
         "statamic",
